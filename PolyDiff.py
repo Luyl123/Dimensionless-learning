@@ -4,7 +4,7 @@
 Original code: https://github.com/snagcliffs/PDE-FIND
 '''
 
-from pyexpat import model
+
 import numpy as np
 
 def PolyDiffPoint(u, x, deg=3, diff=1, index=None):
